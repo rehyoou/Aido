@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Edito Colors -->
+    <color name="edito_primary">#9C27B0</color>
+    <color name="edito_primary_dark">#7B1FA2</color>
+    <color name="edito_accent">#E91E63</color>
+    <color name="edito_background">#FFFFFF</color>
+    <color name="edito_text_primary">#000000</color>
+    <color name="edito_text_secondary">#666666</color>
+    <color name="edito_success">#4CAF50</color>
+</resources>
